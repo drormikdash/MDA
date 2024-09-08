@@ -13,8 +13,8 @@ This script takes the first column in an excel file and wraps each cell in quote
 - Place an excel file in the same folder as the python file
 - run:  **python wrapcells.py input.xlsx**
 
-#Example:
-in the excel contains :
+#Example:<br>
+if the excel contains :
 
 22222<br>
 22222<br>
