@@ -1,6 +1,6 @@
 # Utility 
 
-This script takes the first column in an excel file and wraps each cell in quotes (") and then adds a colon to separate it from the next cell.  all the values are wrapped in parenthesys and are printed in a single row
+This script takes the first column in an excel file and wraps each cell in quotes (") and then adds a colon to separate each cell from the next.  all the values are wrapped in parenthesys and are printed as a single row
 
 #prerequisites:
 
