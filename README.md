@@ -16,12 +16,12 @@ This script takes the first column in an excel file and wraps each cell in quote
 #Example:
 in the excel contains :
 
-22222
-22222
-324234
-34234
-234234234
-234234
+22222<br>
+22222<br>
+324234<br>
+34234<br>
+234234234<br>
+234234<br>
 
 The output will be
 
