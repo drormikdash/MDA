@@ -7,14 +7,14 @@ This script takes the first column in an excel file and adds a colon separator b
 This script takes the first column in an excel file and wraps each cell in quotes (") and then adds a colon to separate each cell from the next.  all the values are wrapped in parenthesys and are printed as a single row
 
 
-#prerequisites (for wrapcells and wrapcells_quotes.py) :
+# prerequisites (for wrapcells and wrapcells_quotes.py) :
 
 - Install python
 - run:   **pip install pandas**
 - run:   **pip install openpyxl**
 - download wrapcells.py  into a local folder on the PC
 
-#To run wrapcells.py:
+# To run wrapcells.py:
 - Place an excel file in the same folder as the python file
 - run:  **python wrapcells.py input.xlsx**
 
@@ -35,7 +35,7 @@ The output will be
 
 ***
 
-#To run wrapcells_quotes.py:
+# To run wrapcells_quotes.py:
 - Place an excel file in the same folder as the python file
 - run:  **python wrapcells_quotes.py input.xlsx**
 
